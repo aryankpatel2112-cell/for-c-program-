@@ -6,4 +6,6 @@ int main()
     scanf("%d %d",hours, minits);
     minits = hours * 60;
     printf("%d hours = %d minits\n",hours,minits);
+    returnm 0; 
 }
+
